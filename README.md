@@ -17,7 +17,7 @@ There are already thousand tools available, but up to now I have not found the r
 # Maybe required features
 
 * todo/checklist.
-
+* Version control: history of changes of a snippet.
 
 The tool should be easily available:
 
