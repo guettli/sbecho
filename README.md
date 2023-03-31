@@ -79,4 +79,6 @@ Drawback:
 Good:
 * At least a hacky way to use it on Android. [Export to Texpand](https://github.com/espanso/espanso/issues/255#issuecomment-927269754)
 
-
+Drawback:
+* Did not work on my laptop (Ubuntu, Wayland)
+* I found not way to search for "dat" (and find the expansion for "date").
