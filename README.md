@@ -32,6 +32,13 @@ I intend to only use my personal snippets. I don't want to import data from othe
 
 Although a way to share notes would be nice, for people who want to do that.
 
+# Existing Tools
+
+I am looking for a tool which spans these use-cases:
+
+* learning
+* snippet handling
+* faster typing
 
 # Existing Tools (for learning)
 
