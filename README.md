@@ -63,4 +63,13 @@ Drawback:
 * The fulltext search in the web version is almost unusable. You can't searc in all cards at once, you need to select a category first.
 * No way to get snippets into the Android GBoard.
 
+# Existing Tools (for typing)
+
+## Typing: Espanso
+
+[Espanso](https://espanso.org/) is a text expander. 
+
+Good:
+* At least a hacky way to use it on Android. [Export to Texpand](https://github.com/espanso/espanso/issues/255#issuecomment-927269754)
+
 
